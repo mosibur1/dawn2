@@ -192,10 +192,10 @@ class Dawn:
     async def question(self):
         while True:
             try:
-                print("Input number => Enter | Nhập số => Enter")
+                print("Input number => Enter)
                 print("1. Run With Auto Proxy | Proxy share (Free)")
-                print("2. Run With Manual Proxy | Dùng proxy cá nhân")
-                print("3. Run Without Proxy | Không dùng proxy")
+                print("2. Run With Manual Proxy | Buy From Proxysale")
+                print("3. Run Without Proxy | MRP Tech")
                 choose = int(input("Choose [1/2/3] -> ").strip())
 
                 if choose in [1, 2, 3]:
