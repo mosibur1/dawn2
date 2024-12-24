@@ -192,7 +192,7 @@ class Dawn:
     async def question(self):
         while True:
             try:
-                print("Input number => Enter)
+                print("Input number => Enter")
                 print("1. Run With Auto Proxy | Proxy share (Free)")
                 print("2. Run With Manual Proxy | Buy From Proxysale")
                 print("3. Run Without Proxy | MRP Tech")
