@@ -41,7 +41,7 @@ class Dawn:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Dawn - BOT |  {Fore.YELLOW + Style.BRIGHT}Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
+        {Fore.GREEN + Style.BRIGHT}Dawn - BOT |  {Fore.YELLOW + Style.BRIGHT}Creator MRP Tech - Join https://t.me/mrptechofficial)
             """
         )
 
